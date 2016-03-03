@@ -57,7 +57,7 @@ Help out today!!!
 
 ### **Is there anything else to add?**
 
-Yea, I will NOT be implimenting quibilia"s DAE modifications for batch processing and packing textures into models.
+Yea, I will NOT be implimenting Quibilia"s DAE modifications for batch processing and packing textures into models.
 
 While these features may be useful for some, this is counterproductive to the aim of this tool, which is to allow people to extract the formats for modification, not simply data mining or one stop shop.
 
